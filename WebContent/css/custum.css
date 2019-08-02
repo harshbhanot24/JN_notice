@@ -1,0 +1,274 @@
+#top_header {
+	padding-top: .8em;
+	margin-top: none;
+	margin-bottom: none;
+	background-color: rgba(124, 124, 124, 1.00);
+	color: rgba(255, 255, 255, 1.00);
+}
+
+#top_header ul {
+	margin-top: -.45em;
+	padding: 0 0px;
+	position: relative;
+	font-size: 1em;
+	display: inline-flex;
+	font-size: inherit;
+	text-decoration: none;
+	text-emphasis: circle;
+}
+
+header a {
+	text-decoration: none;
+	color: rgba(255, 255, 255, 1.00);
+}
+
+header a:hover {
+	text-decoration: none;
+	color: rgba(255, 255, 255, 1.00);
+}
+
+#header_email {
+	height: inherit;
+}
+
+.navbar-fixed-top {
+	border-radius: none;
+	background: #3D72C0;
+	border-color: #4379C9;
+	color: #FBFBFB;
+}
+
+.navwrapper, .navbar-brand, .nav {
+	color: white;
+}
+
+#panel {
+	background-image:
+		url(file:///C|/Users/harsh/Desktop/PROJECT_TRNING/img/blue.jpg);
+}
+
+#well {
+	border-radius: none;
+	background: #3D72C0;
+	border-color: #4379C9;
+	color: #FBFBFB;
+	margin: none;
+	width: inherit;
+	padding: none;
+}
+
+#well .breadcrumb {
+	padding: none;
+	margin-bottom: -3em;
+}
+
+#table {
+	border: 2px solid rgba(61, 114, 192, 1.00);
+}
+
+body {
+	margin: none;
+	padding: none;
+	color: #646464;
+}
+
+#title, .techer_name a {
+	color: #555555;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-stacking-strategy: grid-height;
+	font-size: 24px;
+}
+
+.techer_name {
+	color: #555555;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	line-stacking-strategy: grid-height;
+}
+
+a {
+	color: #151515;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #090909;
+	text-decoration: none;
+}
+
+h4 {
+	color: #555555;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.heading {
+	color: rgba(85, 85, 85, 1.00);
+	font-size: large;
+	font-weight: 250;
+}
+
+.Event, .abc {
+	color: #FF1654;
+}
+
+.Notice {
+	color: #47A493;
+}
+
+.Others {
+	color: #7E4214;
+}
+
+.Others-text {
+	border: 1px solid rgba(221, 221, 221, 1.00);
+	border-radius: 1px;
+	padding: 2px;
+	background-color: #FBFBFB;
+	color: #D97528;
+}
+
+.Assignment {
+	color: #333435;
+}
+
+.Assignment-text {
+	border: 1px solid rgba(221, 221, 221, 1.00);
+	border-radius: 1px;
+	padding: 2px;
+	background-color: #FBFBFB;
+	color: #5A5C5E;
+}
+
+.text-shadow {
+	text-shadow: 2px 3px 4px rgba(150, 150, 150, 1);
+}
+
+.box-shadow {
+	-webkit-box-shadow: 0px 5px 7px 1px rgba(50, 50, 50, 0.82);
+	-moz-box-shadow: 0px 5px 7px 1px rgba(50, 50, 50, 0.82);
+	box-shadow: 0px 5px 7px 1px rgba(50, 50, 50, 0.82);
+}
+
+.box-shadow-blue {
+	-webkit-box-shadow: 0px 2px 7px 1px rgba(22, 77, 255, 0.71);
+	-moz-box-shadow: 0px 2px 7px 1px rgba(22, 77, 255, 0.71);
+	box-shadow: 0px 2px 7px 1px rgba(22, 77, 255, 0.71);
+}
+
+footer {
+	border-radius: none;
+	background: #3461A4;
+	border-color: #183156;
+	color: #FBFBFB;
+	margin: none;
+	padding: none;
+}
+
+body {
+	background-color: #EEEEEE;
+}
+
+#login {
+	border: 1px solid #DFDFDF;
+	border-radius: 4px;
+	padding: 50px;
+	background-color: rgba(255, 255, 255, 1.00);
+}
+
+#faculty {
+	background-color: rgba(127, 165, 221, 1.00);
+	color: rgba(255, 255, 255, 1.00);
+	font-size: 14px;
+	padding: 10px 20px;
+	border-radius: 3px;
+	line-height: 10px;
+}
+
+#notice_stats {
+	background-color: rgba(244, 114, 117, 1.00);
+	color: rgba(255, 255, 255, 1.00);
+	font-size: 14px;
+	padding: 10px 20px;
+	margin-top: 10px;
+	border-radius: 3px;
+	line-height: 10px;
+}
+
+#events_stats {
+	background-color: rgba(39, 223, 174, 1.00);
+	margin-top: 10px;
+	color: rgba(255, 255, 255, 1.00);
+	font-size: 14px;
+	padding: 10px 20px;
+	border-radius: 3px;
+	line-height: 10px;
+}
+
+#txtEditor {
+	border: 2px solid black;
+}
+
+#box {
+	border: 2px solid #3B6EBA;
+	border-radius: 5px;
+	background-color: #F7F7F7;
+}
+
+#heading {
+	width: 380%;
+}
+
+#event {
+	padding: 2px;
+	margin-bottom: 2px;
+}
+
+.event-text {
+	border: 1px solid rgba(221, 221, 221, 1.00);
+	border-radius: 1px;
+	padding: 2px;
+	background-color: #FBFBFB;
+	color: rgba(255, 114, 152, 1.00);
+}
+
+.notice-text {
+	border: 1px solid rgba(221, 221, 221, 1.00);
+	border-radius: 1px;
+	padding: 2px;
+	background-color: #FBFBFB;
+	color: rgba(109, 197, 199, 1.00);
+}
+
+.trade-group {
+	color: rgba(109, 109, 109, 1.00);
+}
+
+footer {
+	border-radius: none;
+	background: #3461A4;
+	border-color: #183156;
+	color: #FBFBFB;
+	margin: none;
+	padding: none;
+}
+
+.readMore {
+	color: rgba(132, 166, 216, 1.00);
+	font-weight: lighter;
+}
+
+.readMore:hover {
+	color: rgba(94, 146, 211, 1.00);
+}
+
+.block {
+	background: rgba(244, 244, 244, 1.00);
+	border-style: solid;
+	border-width: 1px;
+	border-color: rgba(227, 227, 227, 1.00);
+	border-radius: 2 px;
+}
+
+.text_top {
+	font-size: small;
+	color: rgba(165, 165, 165, 1.00);
+}
